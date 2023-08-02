@@ -4,6 +4,7 @@ body {
 }
 
 .image{
+    border: 5px solid green;
     border: 5px solid rgba(45, 36, 31, 0.285);
     border-radius: 10px;
     height: 400px;
@@ -17,13 +18,15 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+} 
+.titulo{
+    color: blue;
+}
+
 }
 .centrado{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-.titulo{
-    color: blue;
 }
