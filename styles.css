@@ -1,9 +1,11 @@
 body {
+    font-family: 'Montserrat', sans-serif;
     background-color: rgb(255, 255, 165);
 }
 
 .image{
     border: 5px solid green;
+    border: 5px solid rgba(45, 36, 31, 0.285);
     border-radius: 10px;
     height: 400px;
 }
@@ -19,4 +21,12 @@ body {
 } 
 .titulo{
     color: blue;
+}
+
+}
+.centrado{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
