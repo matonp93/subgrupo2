@@ -1,11 +1,12 @@
 body {
 	font-family: 'Montserrat', sans-serif;
-	background-color: rgb(255, 255, 165);
+	background:linear-gradient(30deg, crimson, sienna, royalblue, indianred, purple);
+	
 }
 
 
 .image{
-    border: 5px solid rgba(224, 132, 56, 0.336);
+    border: 5px solid rgba(209, 189, 221, 0.336);
     border-radius: 10px;
     height: 500px;
     width: 500px;
