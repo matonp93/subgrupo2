@@ -1,5 +1,5 @@
 body {
-	font-family: 'Montserrat', sans-serif;
+	font-family: "Montserrat";
 	background:linear-gradient(30deg, crimson, sienna, royalblue, indianred, purple);
 	
 }
@@ -40,4 +40,28 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
+
+.titulos{
+    font-size: 40px;
+    color: rgb(212, 212, 212);
+}
+
+.subtitulos{
+    color: rgb(212, 212, 212);
+    margin-bottom: 0px;
+}
+
+.subtitulos:hover{
+    font-size: 30px;
+    transition: 0.5s;
+    margin-bottom: 0px;
+}
+
+.textos{
+    font-family: cursive;
+    margin-top: 8px;
+    padding: 0px 70px;
+    font-size: 20px;
+    text-align: center;
 }
