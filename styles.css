@@ -65,3 +65,23 @@ body {
     font-size: 20px;
     text-align: center;
 }
+
+.pieDePagina{
+
+    color: white;
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.linkGithub{
+    color: white;
+    text-decoration: none;
+}
+.linkGithub i {
+    font-size: 20px;
+    margin-right: 5px;
+}
